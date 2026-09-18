@@ -1,3 +1,7 @@
 Opleiding: Applicatie en Databeheer
+HEAD
 Hobby: Gamen en Lezen
+
+Hobby: Gamen en Voetbal
+wijziging-a
 Toekomstpan: Veel reizen
